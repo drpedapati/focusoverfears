@@ -4,4 +4,4 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
