@@ -4,10 +4,8 @@ list_title: Read Our Latest Posts
 title: ''
 ---
 
-# Github Pages Demo Blog
+# Focus over Fears Parenting Blog
 
-Welcome to this demo blog!
+Parenting inspiration from a father, neuroscientist, and a child psychiatrist.
 
-This website intends to show you how to easily build and deploy a portfolio with a blog using _GitHub Pages_ and _Jekyll_.
-
-You can find the sources of this project [here](https://github.com/SimonDosda/gp-blog).
+You can find the sources of this project [here](https://github.com/drpedapati).
