@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Ernest Pedapati, MD is a neuroscientist and Child Psychiatrist practicing in Cincinnati, OH. His practice primarily focuses on youth with neurodevelopmental conditions including autism and Fragile X Syndrome. He has over 20 years of experience in neuroscience research and is a principal investigator at Cincinnati Children's Hospital Medical Center. He has co-authored two books on therapy with child and adolescents including [Contemporary Psychodynamic Psychotherapy for Children and Adolescents](https://www.amazon.com/Contemporary-Psychodynamic-Psychotherapy-Children-Adolescents-ebook/dp/B0779Y79G6/ref=sr_1_1?crid=1H4NB9K8SMXL7&keywords=pedapati&qid=1641919434&sprefix=pedapati%2Caps%2C78&sr=8-1) and the upcoming [PROMOTING THE EMOTIONAL AND BEHAVIORAL SUCCESS OF YOUTHS: A PRACTICAL GUIDE FOR CLINICIANS].
