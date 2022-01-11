@@ -1,8 +1,4 @@
 ## Welcome to GitHub Pages
-
-{% raw %} 
-
-
 ~~~html
 <ul>
   {% for post in site.posts %}
@@ -12,7 +8,6 @@
   {% endfor %}
 </ul>
 ~~~
-{% endraw %} 
 
 You can use the [editor on GitHub](https://github.com/drpedapati/focusoverfears/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
